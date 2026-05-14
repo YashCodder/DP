@@ -21,5 +21,5 @@ int main(){
         prev2 = prev;
         prev = curr;
     }
-    cout<<prev<<endl;
+    cout<<prev<<endl; 
 }
